@@ -1,0 +1,8 @@
+﻿  Assembling Source.asm...
+Source.asm(15): error A2022: instruction operands must be the same size
+Source.asm(16): error A2022: instruction operands must be the same size
+Source.asm(17): error A2022: instruction operands must be the same size
+Source.asm(21): error A2022: instruction operands must be the same size
+Source.asm(22): error A2022: instruction operands must be the same size
+Source.asm(24): error A2022: instruction operands must be the same size
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" с кодом "1".
